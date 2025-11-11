@@ -29,8 +29,7 @@ This project is a conversational AI agent prototype built for PartSelect, design
 
 ### LLM Integration
 
-- Deepseek API (primary)
-- OpenAI API (backup)
+- Deepseek API
 
 ---
 
@@ -48,23 +47,23 @@ The system uses a modular multi-agent architecture where each agent specializes 
 ┌──────────────────────────────────────────────────────────────┐
 │                   BACKEND (FastAPI)                          │
 │                                                              │
-│  ┌────────────────────────────────────────────────────┐      │
+│  ┌─────────────────────────────────────────────────────┐     │
 │  │         ORCHESTRATOR AGENT                          │     │
 │  │    (Manages conversation flow & context)            │     │
 │  └──────────┬──────────────────────────────────────────┘     │
 │             │                                                │
 │             ↓                                                │
-│  ┌────────────────────────────────────────────────────┐      │
+│  ┌─────────────────────────────────────────────────────┐     │
 │  │            ROUTER AGENT                             │     │
 │  │    (Classifies intent & routes queries)             │     │
 │  └──────────┬──────────────────────────────────────────┘     │
 │             │                                                │
 │        ┌────┴────┬────────┬────────────┬──────────┐          │
 │        ↓         ↓        ↓            ↓          ↓          │
-│  ┌─────────┐ ┌──────┐ ┌────────┐ ┌─────────┐ ┌──────┐        │
+│  ┌─────────┐ ┌──────┐ ┌────────┐ ┌─────────┐ ┌───────┐       │
 │  │Product  │ │Compat│ │Install │ │Trouble  │ │General│       │
 │  │Search   │ │-ility│ │-ation  │ │-shooting│ │Support│       │
-│  └─────────┘ └──────┘ └────────┘ └─────────┘ └──────┘        │
+│  └─────────┘ └──────┘ └────────┘ └─────────┘ └───────┘       │
 │                                                              │
 └───────┬────────────────────────────┬─────────────────────────┘
         │                            │
@@ -267,5 +266,3 @@ partselect-chat-agent/
 - Context-aware follow-up question handling
 - Real-time part compatibility checking
 - Installation time estimates
-
----
