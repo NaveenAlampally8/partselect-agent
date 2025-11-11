@@ -2,6 +2,8 @@
 
 > AI-powered chat assistant for refrigerator and dishwasher parts search, compatibility checking, and installation guidance.
 
+## Loom Video: https://www.loom.com/share/3b365c22ad824ab78451d6712cf49ebf
+
 ## 📋 Project Overview
 
 This project is a conversational AI agent prototype built for PartSelect, designed to help customers find appliance parts, check model compatibility, and get installation instructions. The system uses a multi-agent RAG architecture with semantic search capabilities to provide accurate, context-aware responses about refrigerator and dishwasher parts.
