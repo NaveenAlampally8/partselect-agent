@@ -13,5 +13,7 @@ pandas==2.1.4
 sqlalchemy==2.0.23
 python-multipart==0.0.6
 aiohttp==3.9.1
-sentence-transformers==2.2.2
+sentence-transformers==2.7.0
 uvicorn[standard]==0.24.0
+huggingface-hub==0.23.0
+transformers==4.40.0
