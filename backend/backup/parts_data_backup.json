@@ -1,0 +1,316 @@
+[
+  {
+    "part_number": "PS11752778",
+    "name": "Refrigerator Ice Maker Assembly",
+    "category": "Refrigerator",
+    "subcategory": "Ice Maker",
+    "price": 124.99,
+    "description": "Ice maker assembly for Whirlpool and KitchenAid refrigerators. Replaces broken ice makers that no longer produce ice.",
+    "compatible_models": [
+      "WDT780SAEM1",
+      "WRF555SDFZ",
+      "KSF26C6XYY"
+    ],
+    "brand": "Whirlpool",
+    "image_url": "https://www.partselect.com/images/ice-maker.jpg",
+    "installation_difficulty": "Easy",
+    "installation_steps": [
+      "Turn off water supply to refrigerator",
+      "Remove ice bin from freezer",
+      "Disconnect wire harness from old ice maker",
+      "Remove mounting screws",
+      "Install new ice maker",
+      "Reconnect wire harness",
+      "Turn on water supply"
+    ],
+    "common_symptoms": [
+      "Ice maker not making ice",
+      "Ice maker leaking water",
+      "Ice maker making too much ice"
+    ]
+  },
+  {
+    "part_number": "PS11739232",
+    "name": "Refrigerator Water Inlet Valve",
+    "category": "Refrigerator",
+    "subcategory": "Water System",
+    "price": 45.99,
+    "description": "Water inlet valve controls water flow to ice maker and dispenser. Replace if water stops flowing or leaks.",
+    "compatible_models": [
+      "WDT780SAEM1",
+      "WRS325SDHZ",
+      "GE GSS25GSHSS"
+    ],
+    "brand": "Whirlpool",
+    "image_url": "https://www.partselect.com/images/water-valve.jpg",
+    "installation_difficulty": "Moderate",
+    "installation_steps": [
+      "Unplug refrigerator",
+      "Turn off water supply",
+      "Pull refrigerator away from wall",
+      "Locate valve at back of refrigerator",
+      "Disconnect water lines",
+      "Disconnect wire harness",
+      "Remove mounting screws",
+      "Install new valve",
+      "Reconnect everything",
+      "Test for leaks"
+    ],
+    "common_symptoms": [
+      "Water dispenser not working",
+      "Ice maker not filling",
+      "Water leaking behind refrigerator"
+    ]
+  },
+  {
+    "part_number": "PS11756521",
+    "name": "Refrigerator Defrost Heater",
+    "category": "Refrigerator",
+    "subcategory": "Cooling System",
+    "price": 32.99,
+    "description": "Defrost heater melts frost off evaporator coils. Replace if refrigerator is too warm or freezer has frost buildup.",
+    "compatible_models": [
+      "WRF555SDFZ",
+      "WRS588FIHZ",
+      "MFI2570FEZ"
+    ],
+    "brand": "Whirlpool",
+    "image_url": "https://www.partselect.com/images/defrost-heater.jpg",
+    "installation_difficulty": "Difficult",
+    "installation_steps": [
+      "Unplug refrigerator",
+      "Remove freezer contents",
+      "Remove back panel in freezer",
+      "Locate defrost heater below evaporator coils",
+      "Disconnect wire terminals",
+      "Remove heater from clips",
+      "Install new heater",
+      "Reconnect wires",
+      "Reassemble"
+    ],
+    "common_symptoms": [
+      "Refrigerator too warm",
+      "Frost buildup in freezer",
+      "Defrost cycle not working"
+    ]
+  },
+  {
+    "part_number": "PS11745459",
+    "name": "Refrigerator Door Gasket",
+    "category": "Refrigerator",
+    "subcategory": "Door Parts",
+    "price": 89.99,
+    "description": "Door gasket (seal) keeps cold air inside refrigerator. Replace if torn, loose, or not sealing properly.",
+    "compatible_models": [
+      "WDT780SAEM1",
+      "WRF555SDFZ",
+      "KSF26C6XYY",
+      "WRS325SDHZ"
+    ],
+    "brand": "Whirlpool",
+    "image_url": "https://www.partselect.com/images/door-gasket.jpg",
+    "installation_difficulty": "Easy",
+    "installation_steps": [
+      "Open refrigerator door",
+      "Lift old gasket edge to expose retainer",
+      "Loosen (not remove) retainer screws",
+      "Pull out old gasket",
+      "Soak new gasket in warm water to soften",
+      "Insert new gasket into retainer",
+      "Tighten screws evenly",
+      "Close door and check seal"
+    ],
+    "common_symptoms": [
+      "Refrigerator running constantly",
+      "Frost on food",
+      "Door not closing properly"
+    ]
+  },
+  {
+    "part_number": "PS11728159",
+    "name": "Refrigerator Evaporator Fan Motor",
+    "category": "Refrigerator",
+    "subcategory": "Cooling System",
+    "price": 67.99,
+    "description": "Evaporator fan circulates cold air throughout refrigerator. Replace if refrigerator is warm or making loud noises.",
+    "compatible_models": [
+      "WRS588FIHZ",
+      "MFI2570FEZ",
+      "GE GSS25GSHSS"
+    ],
+    "brand": "Whirlpool",
+    "image_url": "https://www.partselect.com/images/fan-motor.jpg",
+    "installation_difficulty": "Moderate",
+    "installation_steps": [
+      "Unplug refrigerator",
+      "Remove freezer shelves",
+      "Remove back panel",
+      "Disconnect wire harness from fan",
+      "Remove fan blade",
+      "Remove motor mounting screws",
+      "Install new motor",
+      "Reattach fan blade",
+      "Reassemble"
+    ],
+    "common_symptoms": [
+      "Refrigerator not cooling",
+      "Loud noise from freezer",
+      "Fan not running"
+    ]
+  },
+  {
+    "part_number": "PS11722146",
+    "name": "Dishwasher Spray Arm",
+    "category": "Dishwasher",
+    "subcategory": "Wash System",
+    "price": 28.99,
+    "description": "Lower spray arm distributes water during wash cycle. Replace if cracked, clogged, or not spinning.",
+    "compatible_models": [
+      "WDT780SAEM1",
+      "KDFE104HPS",
+      "WDF520PADM"
+    ],
+    "brand": "Whirlpool",
+    "image_url": "https://www.partselect.com/images/spray-arm.jpg",
+    "installation_difficulty": "Easy",
+    "installation_steps": [
+      "Open dishwasher door",
+      "Remove lower dish rack",
+      "Pull up on spray arm to remove",
+      "Clean spray arm mount",
+      "Install new spray arm by pushing down",
+      "Spin to ensure free rotation",
+      "Replace dish rack"
+    ],
+    "common_symptoms": [
+      "Dishes not getting clean",
+      "Water not spraying properly",
+      "Spray arm not spinning"
+    ]
+  },
+  {
+    "part_number": "PS11757304",
+    "name": "Dishwasher Pump and Motor Assembly",
+    "category": "Dishwasher",
+    "subcategory": "Pump",
+    "price": 189.99,
+    "description": "Pump and motor circulates water during wash cycle. Replace if dishwasher won't fill, drain, or wash.",
+    "compatible_models": [
+      "WDT780SAEM1",
+      "WDF520PADM",
+      "KDTM354ESS"
+    ],
+    "brand": "Whirlpool",
+    "image_url": "https://www.partselect.com/images/pump-motor.jpg",
+    "installation_difficulty": "Difficult",
+    "installation_steps": [
+      "Turn off power to dishwasher",
+      "Turn off water supply",
+      "Remove lower access panel",
+      "Disconnect drain hose and water inlet",
+      "Disconnect wire harnesses",
+      "Remove pump mounting bolts",
+      "Lower pump out of dishwasher",
+      "Install new pump",
+      "Reconnect all connections",
+      "Test for leaks"
+    ],
+    "common_symptoms": [
+      "Dishwasher won't drain",
+      "Dishwasher won't fill",
+      "Grinding noise during wash"
+    ]
+  },
+  {
+    "part_number": "PS11738791",
+    "name": "Dishwasher Door Latch",
+    "category": "Dishwasher",
+    "subcategory": "Door Parts",
+    "price": 54.99,
+    "description": "Door latch keeps door closed and activates door switch. Replace if door won't latch or dishwasher won't start.",
+    "compatible_models": [
+      "WDT780SAEM1",
+      "KDFE104HPS",
+      "WDF520PADM",
+      "KDTM354ESS"
+    ],
+    "brand": "Whirlpool",
+    "image_url": "https://www.partselect.com/images/door-latch.jpg",
+    "installation_difficulty": "Moderate",
+    "installation_steps": [
+      "Turn off power",
+      "Open door",
+      "Remove inner door panel screws",
+      "Carefully separate inner panel",
+      "Disconnect wire harness from latch",
+      "Remove latch mounting screws",
+      "Install new latch",
+      "Reconnect wires",
+      "Reassemble door panel"
+    ],
+    "common_symptoms": [
+      "Door won't stay closed",
+      "Dishwasher won't start",
+      "Door latch broken"
+    ]
+  },
+  {
+    "part_number": "PS11747414",
+    "name": "Dishwasher Heating Element",
+    "category": "Dishwasher",
+    "subcategory": "Heating",
+    "price": 42.99,
+    "description": "Heating element heats water during wash and dries dishes. Replace if dishes are wet or water is cold.",
+    "compatible_models": [
+      "KDFE104HPS",
+      "KDTM354ESS",
+      "WDF520PADM"
+    ],
+    "brand": "Whirlpool",
+    "image_url": "https://www.partselect.com/images/heating-element.jpg",
+    "installation_difficulty": "Moderate",
+    "installation_steps": [
+      "Turn off power",
+      "Remove lower dish rack",
+      "Remove lower spray arm",
+      "Disconnect wire terminals from element",
+      "Remove element mounting nut from inside",
+      "Pull element out through bottom of tub",
+      "Install new element",
+      "Tighten mounting nut",
+      "Reconnect wires"
+    ],
+    "common_symptoms": [
+      "Dishes not drying",
+      "Water not heating",
+      "Dishes still wet after cycle"
+    ]
+  },
+  {
+    "part_number": "PS11755843",
+    "name": "Dishwasher Silverware Basket",
+    "category": "Dishwasher",
+    "subcategory": "Accessories",
+    "price": 18.99,
+    "description": "Silverware basket holds utensils during wash cycle. Replace if broken, cracked, or missing.",
+    "compatible_models": [
+      "WDT780SAEM1",
+      "KDFE104HPS",
+      "WDF520PADM",
+      "KDTM354ESS"
+    ],
+    "brand": "Whirlpool",
+    "image_url": "https://www.partselect.com/images/silverware-basket.jpg",
+    "installation_difficulty": "Easy",
+    "installation_steps": [
+      "Open dishwasher",
+      "Remove old basket",
+      "Place new basket in lower rack"
+    ],
+    "common_symptoms": [
+      "Basket broken",
+      "Basket cracked",
+      "Need replacement basket"
+    ]
+  }
+]

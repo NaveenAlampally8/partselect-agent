@@ -1,0 +1,58 @@
+.env
+.env.local
+.env.production
+backend/.env
+frontend/.env
+*.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+*.egg-info/
+build/
+dist/
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+dist/
+.cache/
+
+# Database
+*.db
+*.db-shm
+*.db-wal
+*.sqlite
+
+# ChromaDB
+chroma_db/
+backend/vector_store/chroma_db/
+
+# IDE & OS
+.vscode/
+.idea/
+.DS_Store
+*.swp
+*.swo
+
+# Logs
+*.log
+logs/
+
+# Temporary
+*.tmp
+*.bak
+
+# Virtual Environments
+Instalily/
+venv/
+env/
+ENV/
+.venv/

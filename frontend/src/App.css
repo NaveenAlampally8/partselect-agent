@@ -1,0 +1,37 @@
+.App {
+  text-align: center;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+}
+
+.heading {
+  background: linear-gradient(135deg, #1b3875 0%, #2d5aa0 100%);
+  color: white;
+  padding: 20px;
+  font-size: 24px;
+  font-weight: 600;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 1000;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.heading::before {
+  content: "🔧";
+  margin-right: 10px;
+  font-size: 28px;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
