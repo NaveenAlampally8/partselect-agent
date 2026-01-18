@@ -1,4 +1,4 @@
-# PartSelect Chat Agent - Instalily AI Case Study
+# PartSelect Chat Agent
 
 > AI-powered chat assistant for refrigerator and dishwasher parts search, compatibility checking, and installation guidance.
 
